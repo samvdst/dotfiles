@@ -1,5 +1,7 @@
 [user]
-	email = samuel.stappen@rhizomer.com
-	name = Samuel Van der Stappen
+	email = sam@vd.st
+	name = Samuel
 [init]
 	defaultBranch = main
+[color]
+	ui = true
