@@ -17,7 +17,16 @@ alias lla "ll -A"
 alias g git
 alias gs "git status"
 alias gl "git log"
+alias gd "git diff"
+alias gc "git commit -m"
+
 alias config "/opt/homebrew/bin//git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
+
+alias     ... 'cd ../..'
+alias    .... 'cd ../../..'
+alias   ..... 'cd ../../../..'
+alias  ...... 'cd ../../../../..'
+alias ....... 'cd ../../../../../..'
 
 set -gx PATH bin $PATH
 set -gx PATH ~/bin $PATH
