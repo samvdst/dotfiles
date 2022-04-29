@@ -15,6 +15,8 @@ alias la "ls -A"
 alias ll "ls -l"
 alias lla "ll -A"
 alias g git
+alias gs "git status"
+alias gl "git log"
 alias config "/opt/homebrew/bin//git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 
 set -gx PATH bin $PATH
