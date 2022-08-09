@@ -19,6 +19,8 @@ alias gs "git status"
 alias gl "git log"
 alias gd "git diff"
 alias gc "git commit -m"
+alias hb "hub browse"
+alias c "open . -a \"Visual Studio Code\""
 
 alias config "/opt/homebrew/bin//git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 
@@ -45,3 +47,23 @@ set LOCAL_CONFIG (dirname (status --current-filename))/config-local.fish
 if test -f $LOCAL_CONFIG
   source $LOCAL_CONFIG
 end
+
+# ch - browse chrome history
+function ch
+  set -l cols 40
+  set -l sep '{::}'
+
+  cp -f ~/Library/Application\ Support/Google/Chrome/Default/History /tmp/h
+
+  sqlite3 -separator $sep /tmp/h \
+    "select substr(title, 1, $cols), url
+     from urls order by last_visit_time desc" |
+  awk -F $sep '{printf "%-'$cols's  \x1b[36m%s\x1b[m\n", $1, $2}' |
+  fzf --ansi --multi | sed 's#.*\(https*://\)#\1#' | xargs open
+end
+
+
+# pnpm
+set -gx PNPM_HOME "/Users/sam/Library/pnpm"
+set -gx PATH "$PNPM_HOME" $PATH
+# pnpm end
