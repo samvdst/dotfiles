@@ -12,3 +12,5 @@
 	required = true
 [push]
 	autoSetupRemote = true
+[pager]
+	branch = false
