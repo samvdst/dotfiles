@@ -22,6 +22,18 @@ lsp_installer.on_server_ready(function(server)
     opts = vim.tbl_deep_extend("force", sumneko_opts, opts)
   end
 
+  if server.name == "tsserver" then
+    opts = vim.tbl_deep_extend("force", {
+      root_dir = require'lspconfig'.util.root_pattern("package.json")
+    }, opts)
+  end
+
+  if server.name == "denols" then
+    opts = vim.tbl_deep_extend("force", {
+      root_dir = require'lspconfig'.util.root_pattern("deno.json", "deno.jsonc"),
+    }, opts)
+  end
+
   -- this setup function is exactly the same as lspconfig's setup function
   -- refer to https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
   server:setup(opts)

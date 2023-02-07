@@ -39,3 +39,6 @@ vim.keymap.set('n', "<C-l>", function() require("harpoon.ui").nav_file(4) end, s
 vim.keymap.set('n', "<C-d>", "<C-d>zz")
 vim.keymap.set('n', "<C-u>", "<C-u>zz")
 vim.keymap.set('n', "<leader>e", "<cmd>:Ex")
+
+-- NVIMTREE
+vim.keymap.set('n', '<leader>nt', ':NvimTreeToggle<CR>', {noremap = true, silent = true})

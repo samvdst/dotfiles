@@ -47,7 +47,8 @@ eval "$(fnm env --use-on-cd)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-export FZF_DEFAULT_OPTS='--height=70% --preview="cat {}" --preview-window=right:40%:wrap'
+# export FZF_DEFAULT_OPTS='--height=70% --preview="cat {}" --preview-window=right:40%:wrap'
+export FZF_DEFAULT_OPTS='--height=70%'
 export FZF_DEFAULT_COMMAND='rg --files'
 export FZF_CTRL_T_COMMAND='rg --files --no-messages'
 

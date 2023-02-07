@@ -5,3 +5,4 @@ end
 
 require("samvdst.lsp.lsp-installer")
 require("samvdst.lsp.handlers").setup()
+require("samvdst.lsp.null-ls")

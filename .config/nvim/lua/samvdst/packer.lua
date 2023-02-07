@@ -53,6 +53,7 @@ packer.startup(function(use)
   -- use("williamboman/mason-lspconfig.nvim")
   use("neovim/nvim-lspconfig")
   use("williamboman/nvim-lsp-installer")
+  use("jose-elias-alvarez/null-ls.nvim")
 
   -- comments
   -- use("tpope/vim-commentary") -- the new ones work better for jsx
@@ -75,4 +76,7 @@ packer.startup(function(use)
   use("nvim-lualine/lualine.nvim")
   use("norcalli/nvim-colorizer.lua")
   use("windwp/nvim-autopairs")
+
+  -- wakatime
+  use("wakatime/vim-wakatime")
 end)

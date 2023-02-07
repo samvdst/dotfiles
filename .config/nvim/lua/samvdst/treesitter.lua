@@ -1,9 +1,7 @@
 local configs = require("nvim-treesitter.configs")
 
 configs.setup {
-  ensure_installed = { "c", "lua", "rust", "typescript",
-    "tsx", "css", "dockerfile", "gitignore", "html", "json",
-    "http", "json5", "markdown", "regex", "sql", "yaml" },
+  ensure_installed = "all",
   highlight = {
     enable = true,
     -- additional_vim_regex_highlighting = true,

@@ -159,6 +159,11 @@ _G.packer_plugins = {
     path = "/Users/sam/.local/share/nvim/site/pack/packer/start/neogit",
     url = "https://github.com/TimUntersberger/neogit"
   },
+  ["null-ls.nvim"] = {
+    loaded = true,
+    path = "/Users/sam/.local/share/nvim/site/pack/packer/start/null-ls.nvim",
+    url = "https://github.com/jose-elias-alvarez/null-ls.nvim"
+  },
   ["nvim-autopairs"] = {
     loaded = true,
     path = "/Users/sam/.local/share/nvim/site/pack/packer/start/nvim-autopairs",
@@ -238,6 +243,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/sam/.local/share/nvim/site/pack/packer/start/vim-bbye",
     url = "https://github.com/moll/vim-bbye"
+  },
+  ["vim-wakatime"] = {
+    loaded = true,
+    path = "/Users/sam/.local/share/nvim/site/pack/packer/start/vim-wakatime",
+    url = "https://github.com/wakatime/vim-wakatime"
   }
 }
 
