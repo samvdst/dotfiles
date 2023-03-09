@@ -40,5 +40,8 @@ vim.keymap.set('n', "<C-d>", "<C-d>zz")
 vim.keymap.set('n', "<C-u>", "<C-u>zz")
 vim.keymap.set('n', "<leader>e", "<cmd>:Ex")
 
+-- GIT BLAME
+vim.keymap.set('n', '<leader>gb', ':GitBlameToggle<CR>', {noremap = true, silent = true})
+
 -- NVIMTREE
 vim.keymap.set('n', '<leader>nt', ':NvimTreeToggle<CR>', {noremap = true, silent = true})

@@ -64,6 +64,7 @@ packer.startup(function(use)
   use("github/copilot.vim")
   use("lewis6991/gitsigns.nvim") -- see git changes 
   use { 'TimUntersberger/neogit', requires = 'nvim-lua/plenary.nvim' }
+  use("f-person/git-blame.nvim") -- see who wrote the line
 
   -- explorer
   use("kyazdani42/nvim-web-devicons") -- icons

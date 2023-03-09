@@ -61,6 +61,10 @@ source ~/.resticenv
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
+# auto-commit
+export PATH="$PATH:$HOME/.bin"
+source ~/.openaiapikey
+
 # custom function to fzf chrome search history
 ch () {
   COLS=40
@@ -74,3 +78,4 @@ ch () {
   awk -F $SEP '{printf "%-'$COLS's  \x1b[36m%s\x1b[m\n", $1, $2}' |
   fzf --ansi --multi --no-preview | sed 's#.*\(https*://\)#\1#' | xargs open
 }
+
