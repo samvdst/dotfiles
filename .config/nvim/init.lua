@@ -1,6 +1,6 @@
 -- disable netrw at the very start of your init.lua (strongly advised by nvim-tree)
-vim.g.loaded_netrw = 1
-vim.g.loaded_netrwPlugin = 1
+--[[ vim.g.loaded_netrw = 1 ]]
+--[[ vim.g.loaded_netrwPlugin = 1 ]]
 
 require("samvdst.packer")
 require("samvdst.options")
@@ -34,11 +34,11 @@ autocmd("TextYankPost", {
 })
 
 -- open nvim-tree on startup
-local function open_nvim_tree()
-  require("nvim-tree.api").tree.open()
-end
+--[[ local function open_nvim_tree() ]]
+--[[   require("nvim-tree.api").tree.open() ]]
+--[[ end ]]
 
-autocmd({ "VimEnter" }, { callback = open_nvim_tree })
+--[[ autocmd({ "VimEnter" }, { callback = open_nvim_tree }) ]]
 
 -- setup colorizer
 require("colorizer").setup()
