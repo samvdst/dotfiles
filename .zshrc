@@ -1,56 +1,26 @@
-# If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
-
-# Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="gozilla"
-
-# Uncomment the following line if you want to change the command execution time
-# stamp shown in the history command output.
-# You can set one of the optional three formats:
-# "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
-# or set a custom format using the strftime function format specifications,
-# see 'man strftime' for details.
 HIST_STAMPS="yyyy-mm-dd"
 
-# Would you like to use another custom folder than $ZSH/custom?
-# ZSH_CUSTOM=/path/to/new-custom-folder
-
-# Which plugins would you like to load?
-# Standard plugins can be found in $ZSH/plugins/
-# Custom plugins may be added to $ZSH_CUSTOM/plugins/
-# Example format: plugins=(rails git textmate ruby lighthouse)
-# Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
-  zsh-z
+  z
   zsh-autosuggestions
-  zsh-syntax-highlighting
   zsh-vi-mode
+  zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
 
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
+# fnm
 eval "$(fnm env --use-on-cd)"
 
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-
-# export FZF_DEFAULT_OPTS='--height=70% --preview="cat {}" --preview-window=right:40%:wrap'
+# fuzzy finder
 export FZF_DEFAULT_OPTS='--height=70%'
 export FZF_DEFAULT_COMMAND='rg --files'
 export FZF_CTRL_T_COMMAND='rg --files --no-messages'
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 source ~/.resticenv
 
@@ -79,3 +49,17 @@ ch () {
   fzf --ansi --multi --no-preview | sed 's#.*\(https*://\)#\1#' | xargs open
 }
 
+if [[ -x "$(command -v exa)" ]] then
+  alias ll='exa -l --icons --group-directories-first'
+  alias lla='ll -a'
+fi
+
+# aliases
+alias gs="git status"
+alias c="open . -a 'Visual Studio Code'"
+alias gl='git log'
+alias hb='gh browse'
+alias vim='nvim'
+alias v='nvim .'
+alias config='/opt/homebrew/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias cat='bat'
