@@ -1,5 +1,5 @@
 vim.cmd([[packadd packer.nvim]])
-vim.cmd [[set iskeyword+=-]]
+vim.cmd([[set iskeyword+=-]])
 
 -- vim.cmd([[colorscheme tokyonight]])
 vim.cmd([[colorscheme darkplus]])

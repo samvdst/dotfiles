@@ -1,6 +1,6 @@
 local configs = require("nvim-treesitter.configs")
 
-configs.setup {
+configs.setup({
   ensure_installed = "all",
   highlight = {
     enable = true,
@@ -17,20 +17,19 @@ configs.setup {
   context_commentstring = {
     enable = true,
     enable_autocmd = false,
-  }
-}
+  },
+})
 
 vim.api.nvim_create_augroup("rainbow", {
   clear = true,
 })
 
-vim.api.nvim_create_autocmd({"Filetype"}, {
+vim.api.nvim_create_autocmd({ "Filetype" }, {
   group = "rainbow",
   pattern = "*",
-  callback = function ()
+  callback = function()
     vim.api.nvim_set_hl(0, "rainbowcol1", {
-      fg = "#ffd700"
+      fg = "#ffd700",
     })
   end,
 })
-

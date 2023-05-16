@@ -1,6 +1,6 @@
 -- disable netrw at the very start of your init.lua (strongly advised by nvim-tree)
---[[ vim.g.loaded_netrw = 1 ]]
---[[ vim.g.loaded_netrwPlugin = 1 ]]
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
 
 require("samvdst.packer")
 require("samvdst.options")
@@ -33,12 +33,29 @@ autocmd("TextYankPost", {
   end,
 })
 
--- open nvim-tree on startup
---[[ local function open_nvim_tree() ]]
---[[   require("nvim-tree.api").tree.open() ]]
---[[ end ]]
+local whitespace_group = augroup("", {})
+autocmd("BufWritePre", {
+    group = whitespace_group,
+    pattern = "*",
+    command = [[%s/\s\+$//e]],
+})
 
---[[ autocmd({ "VimEnter" }, { callback = open_nvim_tree }) ]]
+-- open nvim-tree on startup
+local function open_nvim_tree(data)
+  local directory = vim.fn.isdirectory(data.file) == 1
+
+  if not directory then
+    return
+  end
+
+  -- change to the directory
+  vim.cmd.cd(data.file)
+
+  -- open the tree
+  require("nvim-tree.api").tree.open()
+end
+
+autocmd({ "VimEnter" }, { callback = open_nvim_tree })
 
 -- setup colorizer
 require("colorizer").setup()
@@ -46,4 +63,4 @@ require("colorizer").setup()
 -- disable gitblame on startup
 vim.g.gitblame_enabled = 0
 vim.g.gitblame_date_format = "%r (%Y-%m-%d)"
-vim.g.gitblame_message_template = '<author>, <date> • <summary>'
+vim.g.gitblame_message_template = "<author>, <date> • <summary>"

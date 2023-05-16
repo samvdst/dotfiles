@@ -5,7 +5,7 @@ end
 
 local actions = require("telescope.actions")
 
-telescope.setup {
+telescope.setup({
   defaults = {
     mappings = {
       i = {
@@ -14,7 +14,7 @@ telescope.setup {
 
         ["<C-j>"] = actions.move_selection_next,
         ["<C-k>"] = actions.move_selection_previous,
-      }
-    }
-  }
-}
+      },
+    },
+  },
+})
