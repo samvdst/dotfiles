@@ -1,4 +1,4 @@
-local builtin = require("telescope.builtin")
+local telescope = require("telescope.builtin")
 local neogit = require("neogit")
 
 -- Global Leader
@@ -12,19 +12,20 @@ vim.keymap.set("n", "N", "Nzzzv") -- find prev, center and unfold
 vim.keymap.set("x", "<leader>p", [["_dP]]) -- paste over visual selection
 
 -- Copilot (this was neccessary because cmp hijacked the tab key)
--- but my new solution is to completely disable the tab key with cmp (i use <cr> to accept)
+-- but my new solution is to completely disable the tab key with cmp (i use <CR> to accept)
 --[[ vim.g.copilot_no_tab_map = true ]]
 --[[ vim.g.copilot_assume_mapped = true ]]
 --[[ vim.api.nvim_set_keymap("i", "<C-j>", 'copilot#Accept("<CR>")', { silent = true, expr = true }) ]]
 -- TELESCOPE
-vim.keymap.set("n", "<leader>ff", builtin.find_files, {})
-vim.keymap.set("n", "<leader>fg", builtin.live_grep, {})
-vim.keymap.set("n", "<leader>fb", builtin.buffers, {})
-vim.keymap.set("n", "<leader>fh", builtin.help_tags, {})
+vim.keymap.set("n", "<leader>ff", telescope.find_files, {})
+vim.keymap.set("n", "<leader>fg", telescope.live_grep, {})
+vim.keymap.set("n", "<leader>fb", telescope.buffers, {})
+vim.keymap.set("n", "<leader>fh", telescope.help_tags, {})
 
 -- navigate buffers
 vim.keymap.set("n", "<S-l>", ":bnext<CR>", { noremap = true, silent = true })
 vim.keymap.set("n", "<S-h>", ":bprevious<CR>", { noremap = true, silent = true })
+
 -- close buffer
 vim.keymap.set("n", "<leader>q", ":Bdelete<CR>", { noremap = true, silent = true })
 

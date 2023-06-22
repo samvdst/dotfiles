@@ -35,9 +35,9 @@ autocmd("TextYankPost", {
 
 local whitespace_group = augroup("", {})
 autocmd("BufWritePre", {
-    group = whitespace_group,
-    pattern = "*",
-    command = [[%s/\s\+$//e]],
+  group = whitespace_group,
+  pattern = "*",
+  command = [[%s/\s\+$//e]],
 })
 
 -- open nvim-tree on startup
@@ -58,7 +58,7 @@ end
 autocmd({ "VimEnter" }, { callback = open_nvim_tree })
 
 -- setup colorizer
-require("colorizer").setup()
+require("colorizer").setup(nil, { css = true, })
 
 -- disable gitblame on startup
 vim.g.gitblame_enabled = 0

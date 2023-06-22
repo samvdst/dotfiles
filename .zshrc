@@ -63,27 +63,40 @@ alias vim='nvim'
 alias v='nvim .'
 alias config='/opt/homebrew/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias cat='bat'
+alias tl='tmux ls'
+alias ta='tmux a -t'
+alias tn='tmux new -s'
 
+# pnpm
+export PNPM_HOME="/Users/sam/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
 
 # github copilot cli
 eval "$(github-copilot-cli alias -- "$0")"
 
-#compdef gt
-###-begin-gt-completions-###
+eval "$(rbenv init - zsh)"
+
+#compdef index.js
+###-begin-index.js-completions-###
 #
 # yargs command completion script
 #
-# Installation: /Users/sam/Library/Caches/fnm_multishells/36994_1682335492960/bin/gt completion >> ~/.zshrc
-#    or /Users/sam/Library/Caches/fnm_multishells/36994_1682335492960/bin/gt completion >> ~/.zprofile on OSX.
+# Installation: ./../../Library/pnpm/global/5/node_modules/@withgraphite/graphite-cli/dist/src/index.js completion >> ~/.zshrc
+#    or ./../../Library/pnpm/global/5/node_modules/@withgraphite/graphite-cli/dist/src/index.js completion >> ~/.zprofile on OSX.
 #
-_gt_yargs_completions()
+_index.js_yargs_completions()
 {
   local reply
   local si=$IFS
   IFS=$'
-' reply=($(COMP_CWORD="$((CURRENT-1))" COMP_LINE="$BUFFER" COMP_POINT="$CURSOR" /Users/sam/Library/Caches/fnm_multishells/36994_1682335492960/bin/gt --get-yargs-completions "${words[@]}"))
+' reply=($(COMP_CWORD="$((CURRENT-1))" COMP_LINE="$BUFFER" COMP_POINT="$CURSOR" ./../../Library/pnpm/global/5/node_modules/@withgraphite/graphite-cli/dist/src/index.js --get-yargs-completions "${words[@]}"))
   IFS=$si
   _describe 'values' reply
 }
-compdef _gt_yargs_completions gt
-###-end-gt-completions-###
+compdef _index.js_yargs_completions index.js
+###-end-index.js-completions-###
+

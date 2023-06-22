@@ -45,6 +45,13 @@ mason_lspconfig.setup_handlers({
   --[[ ["rust_analyzer"] = function () ]]
   --[[     require("rust-tools").setup {} ]]
   --[[ end, ]]
+  --[[ ["eslint"] = function(server_name) ]]
+  --[[   require("lspconfig")[server_name].setup({ ]]
+  --[[     on_attach = require("samvdst.lsp.handlers").on_attach, ]]
+  --[[     capabilities = require("samvdst.lsp.handlers").capabilities, ]]
+  --[[     root_dir = require("lspconfig").util.root_pattern(".eslintrc.js"), ]]
+  --[[   }) ]]
+  --[[ end, ]]
   ["lua_ls"] = function(server_name)
     require("lspconfig")[server_name].setup({
       on_attach = require("samvdst.lsp.handlers").on_attach,
