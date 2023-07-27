@@ -52,6 +52,21 @@ mason_lspconfig.setup_handlers({
   --[[     root_dir = require("lspconfig").util.root_pattern(".eslintrc.js"), ]]
   --[[   }) ]]
   --[[ end, ]]
+  ["tailwindcss"] = function(server_name)
+    require("lspconfig")[server_name].setup({
+      on_attach = require("samvdst.lsp.handlers").on_attach,
+      capabilities = require("samvdst.lsp.handlers").capabilities,
+      settings = {
+        tailwindCSS = {
+          experimental = {
+            classRegex = {
+              { "cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]" }
+            },
+          }
+        },
+      },
+    })
+  end,
   ["lua_ls"] = function(server_name)
     require("lspconfig")[server_name].setup({
       on_attach = require("samvdst.lsp.handlers").on_attach,
