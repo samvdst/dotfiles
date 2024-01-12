@@ -5,11 +5,14 @@ HIST_STAMPS="yyyy-mm-dd"
 
 plugins=(
   git
-  z
+  # z
   zsh-autosuggestions
   zsh-vi-mode
   zsh-syntax-highlighting
 )
+
+# instead of z plugin from oh-my-zsh
+eval "$(zoxide init zsh)"
 
 source $ZSH/oh-my-zsh.sh
 
@@ -30,10 +33,6 @@ source ~/.resticenv
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
-
-# auto-commit
-export PATH="$PATH:$HOME/.bin"
-source ~/.openaiapikey
 
 # custom function to fzf chrome search history
 ch () {
@@ -63,9 +62,18 @@ alias vim='nvim'
 alias v='nvim .'
 alias config='/opt/homebrew/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias cat='bat'
+# tmux
 alias tl='tmux ls'
 alias ta='tmux a -t'
 alias tn='tmux new -s'
+# ripgrep
+alias rgf='rg --files | rg' # ignores .gitignore; .hidden; binary files
+alias rgfu='rg -u --files | rg' # searches .gitignore additionally 
+alias rgfuu='rg -uu --files | rg' # searches .gitignore and .hidden
+alias rgfuuu='rg -uuu --files | rg' # searches .gitignore, .hidden, and binary files
+alias rgu='rg -u' # searches .gitignore additionally
+alias rguu='rg -uu' # searches .gitignore and .hidden
+alias rguuu='rg -uuu' # searches .gitignore, .hidden, and binary files
 
 # pnpm
 export PNPM_HOME="/Users/sam/Library/pnpm"
@@ -77,8 +85,6 @@ esac
 
 # github copilot cli
 eval "$(github-copilot-cli alias -- "$0")"
-
-eval "$(rbenv init - zsh)"
 
 #compdef index.js
 ###-begin-index.js-completions-###
@@ -100,3 +106,9 @@ _index.js_yargs_completions()
 compdef _index.js_yargs_completions index.js
 ###-end-index.js-completions-###
 
+
+# tabtab source for packages
+# uninstall by removing these lines
+[[ -f ~/.config/tabtab/zsh/__tabtab.zsh ]] && . ~/.config/tabtab/zsh/__tabtab.zsh || true
+
+source /Users/sam/.config/broot/launcher/bash/br
