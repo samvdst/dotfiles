@@ -3,6 +3,8 @@ export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="gozilla"
 HIST_STAMPS="yyyy-mm-dd"
 
+fpath+=~/.zfunc
+
 plugins=(
   git
   # z
@@ -34,6 +36,8 @@ source ~/.resticenv
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
+export PATH="$(brew --prefix sqlite)/bin:${PATH}"
+
 # custom function to fzf chrome search history
 ch () {
   COLS=40
@@ -48,27 +52,32 @@ ch () {
   fzf --ansi --multi --no-preview | sed 's#.*\(https*://\)#\1#' | xargs open
 }
 
-if [[ -x "$(command -v exa)" ]] then
-  alias ll='exa -l --icons --group-directories-first'
-  alias lla='ll -a'
+if [[ -x "$(command -v eza)" ]] then
+  alias l='eza -l -all --icons --group-directories-first'
+  alias ll='l'
+  alias la='l'
+  alias lla='l'
 fi
 
 # aliases
 alias gs="git status"
-alias c="open . -a 'Visual Studio Code'"
+alias c="v"
 alias gl='git log'
 alias hb='gh browse'
 alias vim='nvim'
-alias v='nvim .'
+alias v='nvim'
+alias t='tmux'
+alias lg='lazygit'
 alias config='/opt/homebrew/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias cat='bat'
+
 # tmux
 alias tl='tmux ls'
 alias ta='tmux a -t'
 alias tn='tmux new -s'
 # ripgrep
 alias rgf='rg --files | rg' # ignores .gitignore; .hidden; binary files
-alias rgfu='rg -u --files | rg' # searches .gitignore additionally 
+alias rgfu='rg -u --files | rg' # searches .gitignore additionally
 alias rgfuu='rg -uu --files | rg' # searches .gitignore and .hidden
 alias rgfuuu='rg -uuu --files | rg' # searches .gitignore, .hidden, and binary files
 alias rgu='rg -u' # searches .gitignore additionally
