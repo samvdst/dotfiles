@@ -1,0 +1,49 @@
+IMAPStore samuel.stappen@rhizomer.com-remote
+Host mail.infomaniak.ch
+Port 993
+User samuel.stappen@rhizomer.com
+PassCmd "pass samuel.stappen@rhizomer.com"
+AuthMechs LOGIN
+TLSType IMAPS
+CertificateFile /etc/ssl/cert.pem
+
+MaildirStore samuel.stappen@rhizomer.com-local
+Subfolders Verbatim
+Path /Users/sam/.local/share/mail/samuel.stappen@rhizomer.com/
+Inbox /Users/sam/.local/share/mail/samuel.stappen@rhizomer.com/INBOX
+
+Channel samuel.stappen@rhizomer.com
+Expunge Both
+Far :samuel.stappen@rhizomer.com-remote:
+Near :samuel.stappen@rhizomer.com-local:
+Patterns * !"[Gmail]/All Mail" !"*fts-flatcurve*" !"*virtual*"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile
+
+IMAPStore sam@vd.st-remote
+Host mail.infomaniak.ch
+Port 993
+User sam@vd.st
+PassCmd "pass sam@vd.st"
+AuthMechs LOGIN
+TLSType IMAPS
+CertificateFile /etc/ssl/cert.pem
+
+MaildirStore sam@vd.st-local
+Subfolders Verbatim
+Path /Users/sam/.local/share/mail/sam@vd.st/
+Inbox /Users/sam/.local/share/mail/sam@vd.st/INBOX
+
+Channel sam@vd.st
+Expunge Both
+Far :sam@vd.st-remote:
+Near :sam@vd.st-local:
+Patterns * !"[Gmail]/All Mail" !"*fts-flatcurve*" !"*virtual*"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile
