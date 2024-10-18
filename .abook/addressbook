@@ -1,0 +1,2310 @@
+# abook addressbook file
+
+[format]
+program=abook
+version=0.6.1
+
+
+[0]
+name=ASAG Liestal
+mobile=619069988
+
+[1]
+name=Aaron
+mobile=079 551 93 55
+
+[2]
+name=Adam Paton
+email=Adam.Paton@zifornd.com
+
+[3]
+name=Adrian Bawidamann
+mobile=+41794594339
+notes=RS Sommer 15' hat bei Abacus gearbeitet. Neu AB-IT.
+
+[4]
+name=Adrian Cheesy🧀
+mobile=+41763673377
+
+[5]
+name=Aidy AirBnB
+phone=+972 54-525-7510
+
+[6]
+name=Aileen Lakatos
+mobile=+41767799289
+
+[7]
+name=Alain Designer (damals WB)
+phone=+41797501860
+
+[8]
+name=Alain Zuber
+mobile=+41798832271
+
+[9]
+name=Alessia
+mobile=+41 76 490 98 08
+
+[10]
+name=Alex Ramirez
+mobile=+41 76 322 86 95
+
+[11]
+name=Alex Tutti Bildschirme
+mobile=079 264 66 92
+
+[12]
+name=Alexandra venice
+mobile=+44 7493 148547
+
+[13]
+name=Ali
+phone=+41 79 948 02 20
+notes=Photo: https\\://lh3.googleusercontent.com/-YEQ8nMosFnA/WlePhjKB0AI/AA
+
+[14]
+name=Aliev Meman
+phone=+41 76 402 39 91
+
+[15]
+name=Alisha Schnellmann
+mobile=+41 76 448 35 25
+
+[16]
+name=Almer Rami
+mobile=+41 76 470 38 24
+
+[17]
+name=Ambiance Blumen
+mobile=+41762399463
+
+[18]
+name=Andi Belser
+mobile=+41794526168
+notes=RS Sommer 15' war im Zug Palermo ich im Zug Schaller. Ging auch im Fuc
+
+[19]
+name=Andjelina Skegro
+mobile=+41 79 945 32 71
+
+[20]
+name=Andre Rubin
+mobile=076 379 41 41
+notes=Wahrscheinlich im Viertel besoffen an der Bar kennengelernt.
+
+[21]
+name=Andrea Marugg
+mobile=079 102 06 31
+
+[22]
+name=Andreas Hügli
+mobile=+41796901863
+notes=Oberstift in der Roche bei Anton Müller. Hat danach Medizininformatik
+
+[23]
+name=Andreas Schwendeler
+email=Andreas.Schwendeler@rinet.ch
+mobile=+41 79 630 03 11
+
+[24]
+name=Andreas Stamm
+address=9 Badplatzweg
+city=Wallbach
+zip=4323
+country=CH
+mobile=+41 79 826 69 19
+
+[25]
+name=Andreas Vollenweider
+mobile=+41795328895
+notes=Im WK kennengelernt damals bei Roman Gmür. Arbeitet als Informatiker 
+
+[26]
+name=Andy Schwarb
+workphone=618314887
+mobile=+41 79 652 55 23
+
+[27]
+name=Angelo Sax
+mobile=+41 76 360 16 56
+notes=Koch im WK. Peruaner aus ZH.
+
+[28]
+name=Anil Bilen
+mobile=+41764597297
+notes=USA 16' San Diego (Fallschirm) / Las Vegas / Santa Barbara / Los Angel
+
+[29]
+name=Anliker Auto
+phone=079 430 30 93
+
+[30]
+name=Annelena Witthus
+email=support@fairgate.ch
+
+[31]
+name=Annika Airbnb Helsinki
+mobile=+358 44 5564135
+
+[32]
+name=Anou Michel
+mobile=+41765738088
+
+[33]
+name=Ante Padel Pratteln
+mobile=079 506 92 37
+
+[34]
+name=Antonio Canarini
+address=20 Feierabendstrasse
+city=Basel
+zip=4051
+country=Switzerland
+phone=+41 61 319 70 72
+workphone=+41 61 319 70 70
+mobile=+41 79 644 36 24
+notes=Hat auch bei Roche gearbeitet. Partnerabteilung von Christian Reck. Wo
+
+[35]
+name=Anusanth Nagaratnam
+mobile=+41 79 128 53 63
+notes=GIBM 11-15. Inder. Ausbildung bei Save&Serve.
+
+[36]
+name=Apple Store Freie Strasse
+phone=061 206 01 00
+
+[37]
+name=Arber Shabani
+phone=+41774820770
+notes=RS Sommer 15'. Zuerst Zug Palermo. Raucht gerne Shisha.
+
+[38]
+name=Armin Windlin
+mobile=+41774649909
+notes=RS Sommer 15'. Sein Gewehr hiess Jinx. Hat DD gemacht. Informatiker be
+
+[39]
+name=Arno Simon
+email=arno.simon@zifornd.com,arno.simon@beyontics.com
+mobile=+49 1511 2117703
+anniversary=19650620
+
+[40]
+name=Attila
+mobile=079 367 04 96
+
+[41]
+name=Aurel Schmid
+mobile=+41764192959
+
+[42]
+name=Auri
+mobile=+41 79 174 53 73
+notes=Kollegin von Marc. Waren oft zusammen im Keyf. Kollegin von Güldeniz 
+
+[43]
+name=Ausgleichskasse Aargau
+mobile=062 836 81 81
+
+[44]
+name=Ayleen Weidmann Tennis
+phone=+41799031890
+
+[45]
+name=Aylin Schweizer
+phone=+41763057565
+
+[46]
+name=Aynkaran Sundralingam
+mobile=+41766802755
+notes=RS Sommer 15'. Waren zusammen in der Fahrerausbildung. Spitzname Sundi
+
+[47]
+name=Babolat Tutti
+mobile=00 41 79 710 19 05
+
+[48]
+name=Baran Luque
+workphone=+41 61 295 63 77
+notes=Working Bicycle Kunde HKVBS.
+
+[49]
+name=Barbara Matic
+mobile=+41 76 411 43 14
+notes=Bez Parallelklasse (D?). Hat bei RichmondEvents gearbeitet. Kinogutsch
+
+[50]
+name=Basil Tutti iPad
+phone=795500009
+
+[51]
+name=Beat Wagner
+email=b.wagner@mt-robot.com
+workphone=+41 61 775 20 11
+mobile=+41 78 665 05 36
+notes=Vater von Thierry. Habe Webseite für ihn gemacht (mt-robot.ch).
+
+[52]
+name=Benjamin Aellen
+email=benjamin@aviaticfilms.ch
+address=23 Turnerstrasse
+city=Basel
+zip=4058
+country=Switzerland
+workphone=+41 61 681 81 11
+mobile=+41 79 718 57 92
+notes=Durch Startup Academy kennengelernt. Erstes Gespräch an Netzwerkanlas
+
+[53]
+name=Benjamin Heutschi
+mobile=076 466 70 09
+
+[54]
+name=Benjamin Weber
+mobile=+41795574134
+notes=RS Sommer 15'. Zug Schaller.
+
+[55]
+name=Benjamin Zissoldt
+email=benjamin.zissoldt@zifornd.com,benjamin.zissoldt@beyontics.com,Benjamin.Zissoldt@zifornd.com
+mobile=+49 177 5409666
+anniversary=19950714
+
+[56]
+name=Benni Uber
+mobile=078 872 40 52
+
+[57]
+name=Beyontics Office Berlin
+mobile=+49 30 36432319
+
+[58]
+name=Bieber Chef
+mobile=+41 76 317 90 80
+
+[59]
+name=Blank, Thomas
+email=thomas.blank@roche.com
+
+[60]
+name=Bohdan Sakalo
+email=bodya.sakalo@gmail.com
+mobile=+380988634867
+
+[61]
+name=Booking.com Hotline Schweiz
+mobile=044 511 16 37
+
+[62]
+name=Bozica (Tante vo Mato)
+mobile=+41 76 387 64 38
+
+[63]
+name=Bruno Peuser
+email=Bruno.Peuser@zifornd.com
+
+[64]
+name=Brutsch
+phone=+41 79 280 44 50
+
+[65]
+name=Bujar Hoxa
+mobile=+41 76 397 08 07
+
+[66]
+name=Bülent Möhlin
+mobile=061 554 40 40
+
+[67]
+name=C/O PAKETSTOPGO
+address=2 KARLSTR
+city=RHEINFELDEN (Baden
+zip=79618
+country=Deutschland
+
+[68]
+name=Can Esel
+mobile=789224303
+
+[69]
+name=Carina Herzog
+mobile=+41795542515
+
+[70]
+name=Carlo Zosso
+mobile=+41 79 623 40 02
+
+[71]
+name=Carmela
+phone=+41 79 517 33 62
+notes=Photo: https\\://lh3.googleusercontent.com/-vQFFy41tDw0/WHZX4S7XrZI/AA
+
+[72]
+name=Caro
+mobile=+41 79 175 12 65
+
+[73]
+name=Caroline Hancox
+mobile=+44 7940 998180
+
+[74]
+name=Carpe Diem Beach Hvar
+workphone=+385 99 4468 468
+
+[75]
+name=Carsten Lohs
+mobile=07932 21820
+
+[76]
+name=Celine G
+mobile=+41 76 570 21 16
+
+[77]
+name=Charlotte Weiss
+email=charlotte.weiss@paravent.ch,info@paravent.ch
+address=8 Freie Strasse
+city=Basel
+zip=4001
+phone=+41 79 645 25 87
+workphone=061 262 32 30
+mobile=+41794796963
+
+[78]
+name=Chiara Carbone
+mobile=763921400
+
+[79]
+name=Chris AstraZeneca
+mobile=+44 7584 085214
+anniversary=--0330
+
+[80]
+name=Christian Luem
+email=christian.luem@reego.ch
+mobile=+41782118400
+
+[81]
+name=Christian Meisl
+mobile=015738167791
+
+[82]
+name=Christina (Boatparty)
+mobile=+1 305-342-1733
+
+[83]
+name=Christof Lechmann
+mobile=+41793050446
+
+[84]
+name=Christopher Eckstein
+mobile=0041794426868
+
+[85]
+name=Ciril Beck
+mobile=+41792747563
+
+[86]
+name=Citlak
+mobile=078 760 17 41
+
+[87]
+name=Claire Février
+email=fevrier.claire@gmail.com
+phone=+41765873115
+
+[88]
+name=Claude Chiquet
+email=claude@domaine-chiquet.ch,c.chiquet@eblcom.ch,claude@chiquet-lesvins.ch
+phone=+41 79 363 13 04
+
+[89]
+name=Claudia Böni
+mobile=+41793031607
+
+[90]
+name=Corina Salsa
+mobile=+41 79 392 05 77
+
+[91]
+name=Corinne Wernli
+mobile=+41 79 295 70 04
+
+[92]
+name=Cristian Brigante (Die Bremse)
+address=367 Bühlmattstrasse
+city=Schupfart
+zip=4325
+country=CH
+mobile=+41 79 612 20 92
+anniversary=19960205
+
+[93]
+name=Cédric Amsler
+address=39E Quellenstrasse
+city=Rheinfelden
+zip=4310
+mobile=+41 79 675 43 96
+anniversary=19950128
+
+[94]
+name=Dagmar Auweter
+email=Dagmar.Auweter@zifornd.com
+
+[95]
+name=Daki
+mobile=+41 79 947 44 62
+
+[96]
+name=Damian Behlinger
+mobile=+41765586211
+
+[97]
+name=Damian Salsa
+mobile=+41 77 520 65 75
+
+[98]
+name=Daniel Deveney
+anniversary=1992-09-18
+
+[99]
+name=Daniel Dillier
+email=daniel.dillier@ludwigpartner.ch,Daniel.Dillier@ludwigpartner.ch
+mobile=+41 61 204 02 40
+
+[100]
+name=Daniel Gertsch
+email=d.gertsch@gibmit.ch
+mobile=079 747 90 07
+
+[101]
+name=Daniel Herbert
+workphone=+1 224-360-9298
+mobile=+1 608-213-0769
+
+[102]
+name=Daniel Juchli
+email=juchli@web4u.ch,daniel.juchli@wega-it.com
+phone=+41 79 824 10 41
+
+[103]
+name=Daniel Leutenegger
+mobile=079 218 60 44
+
+[104]
+name=Daniel Linsig
+mobile=+41 78 862 42 62
+
+[105]
+name=Daniel Riediker
+email=d_riediker@yahoo.de
+mobile=+41 79 811 15 16
+
+[106]
+name=Daniel Sanchez Tacco
+mobile=+41791388065
+notes=Hinzugefügt von WhatsApp™ am 08.11.2013 19\\:35\\:41\nPhoto: https\
+anniversary=--1211
+
+[107]
+name=Daniele Larecchiuta, (UBS)
+email=daniele.larecchiuta@ubs.com
+workphone=+41 61 836 49 27
+notes=Photo: https\\://lh3.googleusercontent.com/-u2K3NupSobU/WUDQDwQPpWI/AA
+
+[108]
+name=Dano
+mobile=+41 76 335 05 66
+
+[109]
+name=Dario
+mobile=+41 79 947 27 11
+
+[110]
+name=Dave Rohrer
+mobile=+41787101555
+
+[111]
+name=David Böni
+mobile=0041798478615
+notes=Photo: https\\\\://lh3.googleusercontent.com/contacts/ABsqplu5pHcclUBj
+
+[112]
+name=David Finlay
+email=David.Finlay@zifornd.com
+
+[113]
+name=David James Miami
+mobile=+1 786-506-9961
+
+[114]
+name=David Menzi
+mobile=+41 79 359 13 00
+
+[115]
+name=David QM (WK)
+phone=+41792680457
+
+[116]
+name=David Schoch
+mobile=+41 79 268 11 67
+
+[117]
+name=Davide Marra
+address=16 Bremenstallstrasse
+city=Möhlin
+zip=4313
+mobile=+41 79 584 20 95
+anniversary=19950626
+
+[118]
+name=Debby Salsa
+mobile=+41 79 760 85 42
+
+[119]
+name=DeinDeal
+mobile=0848 500 501
+
+[120]
+name=Dennis Zoller (Tutti Light Phone 2)
+mobile=079 575 11 23
+
+[121]
+name=Digitec B2B
+email=d2b@digitec.ch
+workphone=+41 44 575 96 00
+
+[122]
+name=Dogu Arslan
+workphone=079 416 57 79
+mobile=‪+41 76 371 74 35‬
+
+[123]
+name=Domedi
+mobile=+41 78 684 70 19
+
+[124]
+name=Domii
+phone=079 886 67 33
+
+[125]
+name=Dominic Muggler
+address=79 Ziegelackerstrasse
+city=Möhlin
+zip=4313
+mobile=+41 79 811 80 59
+anniversary=19940529
+
+[126]
+name=Dominik Eberhard Käufer Surface Book
+mobile=+41774312177
+
+[127]
+name=Dominik Förster
+mobile=+41 79 304 04 08
+
+[128]
+name=Dragi
+mobile=076 433 25 06
+
+[129]
+name=Dylan Häring
+phone=+41784035347
+
+[130]
+name=Elsbeth Straumann
+mobile=+41 61 688 24 19
+
+[131]
+name=Emanuel (Programmierer) (Working Bicycle)
+mobile=+41 79 835 96 97
+
+[132]
+name=Erdal Özhan
+mobile=+41 78 946 34 62
+
+[133]
+name=Eric Cannon
+email=Eric-cannon@bluewin.ch
+mobile=+41787151394
+
+[134]
+name=Erika Essler
+email=Erika.Essler@cpvcap.ch
+phone=+41613366773
+
+[135]
+name=Erika Simones
+mobile=+41 79 573 30 10
+
+[136]
+name=FAB Golf R Händler
+mobile=0768167408
+
+[137]
+name=Fabian Menzi (Zugführer FU Bat 21)
+mobile=793447963
+
+[138]
+name=Fabian Müller
+mobile=+41 79 943 98 73
+
+[139]
+name=Fabian Padel
+mobile=+41774464620
+
+[140]
+name=Fabian Roth
+mobile=+41 61 511 80 42
+
+[141]
+name=Fabian Rügge
+address=Raihof
+city=Zeiningen
+zip=4314
+mobile=+41 79 843 71 41
+anniversary=19950731
+
+[142]
+name=Fabiano Driver Lisbon
+mobile=+351939354576
+
+[143]
+name=Fabienne Wendelspiess
+mobile=+41797598674
+
+[144]
+name=Fabio Jacconi
+mobile=+41791980489
+
+[145]
+name=Fabio Yonex
+phone=+41799179780
+
+[146]
+name=Fabiola Baur
+mobile=077 433 51 88
+
+[147]
+name=Fabiola Salsa
+address=55 Kirchstrasse
+city=Bubendorf
+zip=4416
+country=CH
+mobile=+41 79 952 35 98
+anniversary=19900219
+
+[148]
+name=Ferdi Sindbad
+mobile=00 49 174 3454468
+
+[149]
+name=Fiona
+phone=+1 786-212-4812
+mobile=41797475760
+
+[150]
+name=Fixxe
+phone=+41 79 109 24 12
+
+[151]
+name=Flo Feist
+mobile=+41 78 781 83 81
+
+[152]
+name=Florence
+phone=+41763396334
+
+[153]
+name=Francioni
+mobile=+41 79 579 30 26
+
+[154]
+name=Franz Böni
+mobile=+41 79 448 73 13
+anniversary=1954-05-27
+
+[155]
+name=Franziska Böni
+mobile=079 586 31 83
+
+[156]
+name=GP Maler Solothurnerstrasse
+mobile=00 33 6 51 47 06 05
+notes=Maler der am Anfang bei der Solothurnerstrasse vorbei kam (im Auftrag 
+
+[157]
+name=Gabrijel Babic
+mobile=+41 76 573 75 35
+
+[158]
+name=Garci
+mobile=+41765667468
+
+[159]
+name=Getoar Krasniqi
+mobile=+41765679031
+
+[160]
+name=Gian Reto LacJenz Lenz
+mobile=+41 79 664 07 22
+anniversary=19940630
+
+[161]
+name=Gianluca Aebi
+mobile=+41797361956
+
+[162]
+name=Gianni
+mobile=+41798398770
+
+[163]
+name=Giovanni Petosa
+mobile=076 562 92 80
+
+[164]
+name=Giuliano Rickli
+address=65 Moosmattstrasse
+city=Giebenach
+zip=4304
+country=CH
+mobile=+41 79 587 22 26
+anniversary=19931113
+
+[165]
+name=Glenis Putzfrau
+mobile=+41765751744
+anniversary=19711128
+
+[166]
+name=Golf 6 R (Schwyz)
+mobile=079 406 76 34
+
+[167]
+name=Golf 6R blau
+workphone=033 345 52 52
+
+[168]
+name=Google Store Support (Schweiz)
+workphone=0800 199 077
+
+[169]
+name=Greg Miami Promoter
+mobile=(305) 803-8636
+
+[170]
+name=Gregory Simones
+phone=+1 786-301-3343
+mobile=+41 79 456 41 31
+
+[171]
+name=Grob
+mobile=+41 79 294 94 54
+
+[172]
+name=Grossenbacher, Ueli
+email=ueli.grossenbacher@roche.com
+
+[173]
+name=Guisela Miami
+mobile=+591 79955255
+
+[174]
+name=Günti
+mobile=+41788515028
+
+[175]
+name=Hadi Boeni
+mobile=+41 79 366 54 95
+
+[176]
+name=Hekuran
+mobile=079 179 61 55
+
+[177]
+name=Helpline EDA-D
+workphone=+41 58 462 78 66
+url=www.helpline-eda.ch
+notes=Registrieren Sie Ihre nächste Auslandreise auf Travel Admin <https://www.travel
+
+[178]
+name=Henok
+mobile=+41 77 536 12 35
+
+[179]
+name=Hottinger
+mobile=079 525 69 79
+
+[180]
+name=Hrvoje Maslac
+mobile=+41 76 416 64 65
+
+[181]
+name=IPA Meisterschaft (glaub)
+mobile=+41615527550
+
+[182]
+name=IWB techniker
+mobile=079 203 16 02
+
+[183]
+name=Ilber Djeladini
+email=digitaldruck@bsb.ch
+workphone=+41 61 272 17 18
+
+[184]
+name=Imerio Bischofsberger
+email=imerio.bischofsberger@hotmail.de
+mobile=+41 79 603 02 65
+anniversary=19950516
+
+[185]
+name=Imerio Cosi
+mobile=+41795573492
+
+[186]
+name=Infanterie Frau Sissaui
+mobile=031 324 80 63
+
+[187]
+name=Ingo Green
+email=ingo.green@beyontics.com
+mobile=+49 163 8435752
+notes=Photo: https\\://lh3.googleusercontent.com/-l3F7-nr9J1I/V-1GW2JK8kI/AA
+
+[188]
+name=Ipkin ibrahim
+mobile=+41764240068
+
+[189]
+name=Irfan Laptop Surface
+mobile=+41763754007
+
+[190]
+name=István Bojt
+email=istvan.bojt@ludwigpartner.ch
+workphone=+41 61 204 02 80
+
+[191]
+name=Ivan Brigante
+address=367 Bühlmattstrasse
+city=Schupfart
+zip=4325
+country=CH
+mobile=+41 79 585 62 64
+anniversary=19970524
+
+[192]
+name=Ivona Face
+mobile=0797714088
+
+[193]
+name=Jacques Louw
+mobile=+41795235180
+url=https://t.me/@id272354236
+
+[194]
+name=James
+email=James
+
+[195]
+name=James Symington
+email=James.Symington@zifornd.com,James.Symington@zifornd.com<mailto:James.Symington@zifornd.com
+
+[196]
+name=Jan Aerni
+mobile=+41 79 651 84 57
+notes=Im WK kennengelernt. Arbeitet bei PostFinance. Kennt Matthias Thomann 
+
+[197]
+name=Jan Gautschi
+mobile=+41765817756
+
+[198]
+name=Jan Güdel
+mobile=+41794114302
+
+[199]
+name=Jan Huggel
+email=info@huggel-car.ch
+workphone=061 415 20 20
+notes=Tesla Garage für Reparaturen
+
+[200]
+name=Jan Wächter
+phone=+41 79 388 84 22
+
+[201]
+name=Jana Merklinger
+mobile=+41 76 345 12 83
+
+[202]
+name=Janick Meyer
+mobile=+41 79 915 94 85
+
+[203]
+name=Janik Schlatter
+mobile=+41799279037
+
+[204]
+name=Jannick Wütrich
+mobile=+41 79 758 56 20
+
+[205]
+name=Jannik Behlinger
+mobile=+41765091121
+
+[206]
+name=Jasmin Böni-Pianezzi
+phone=+41 79 963 53 79
+
+[207]
+name=Jasmin Litschi
+mobile=+41794426947
+anniversary=--1118
+
+[208]
+name=Jasmin Nuofer
+mobile=+41 78 638 34 85
+
+[209]
+name=Jasmin Wicki (Tutti Pixel 3)
+phone=079 722 54 16
+
+[210]
+name=Javi Padel
+mobile=+41786472860
+
+[211]
+name=Jeanne Alt
+
+[212]
+name=Jenny
+mobile=+41795571153
+
+[213]
+name=Jenny Marra
+mobile=+41 79 324 84 93
+
+[214]
+name=Jens Philipp Künzli
+mobile=+41764235342
+
+[215]
+name=Jessica Kaufmann
+mobile=+41788762054
+
+[216]
+name=Jessy
+mobile=+41 79 711 39 69
+
+[217]
+name=Jill Perron (Eventmanager Züri)
+mobile=0794746859
+
+[218]
+name=Joakim Kihlstrom
+
+[219]
+name=Joel Fisch
+mobile=+41 77 422 29 25
+
+[220]
+name=Joel Stocker
+mobile=+41795213990
+
+[221]
+name=Johan Stettler
+mobile=+41774101174
+
+[222]
+name=John Dicker
+mobile=+44 7800 950810
+
+[223]
+name=Jonas Rinderknecht
+phone=+41 78 925 37 00
+
+[224]
+name=Jonas Seeholzer
+phone=+41 78 770 44 15
+notes=Photo: https\\://lh6.googleusercontent.com/-dGybMQmA0To/V-1GXyfFTTI/AA
+
+[225]
+name=Joni Uk Nokai
+mobile=0787334801
+
+[226]
+name=Jose Balz Padel
+mobile=+41788501332
+
+[227]
+name=Joy
+mobile=079 324 25 83
+
+[228]
+name=Jusuf Iljazi
+mobile=+41 76 400 89 02
+
+[229]
+name=Jérôme
+mobile=+41 76 675 53 26
+
+[230]
+name=Katja
+mobile=079 585 11 07
+notes=Photo: https\\://lh5.googleusercontent.com/-xcm80l-kfXY/W28tcfO4uVI/AA
+
+[231]
+name=Katja Airbnb Helsinki
+mobile=+358 50 3761449
+
+[232]
+name=Ken VandenOever
+email=Ken.VandenOever@gilead.com
+
+[233]
+name=Kevin Kohler
+mobile=+41795343182
+
+[234]
+name=Kevin Truong
+mobile=+41795429146
+
+[235]
+name=Klaus Rutschmann Spedition
+address=14 Gewerbestrasse
+city=Rheinfelden/Baden
+zip=79618
+country=Schweiz
+
+[236]
+name=Kreiskommando
+phone=062 835 31 10
+
+[237]
+name=Kris Lyft
+mobile=+1 630-408-1221
+
+[238]
+name=Krishnaveni Subbiah
+email=Krishnaveni.S@zifornd.com
+
+[239]
+name=Kristall Saphir Saas Almagell
+mobile=027 958 17 00
+
+[240]
+name=Ksenia Laganaki
+mobile=89111954305
+
+[241]
+name=Kyrill Gober
+phone=0764974202
+
+[242]
+name=Kägi
+mobile=+41799359679
+
+[243]
+name=Laila Thommen
+mobile=+41 76 388 62 06
+
+[244]
+name=Lara
+mobile=+41 76 321 22 90
+
+[245]
+name=Lara Balz
+phone=+41 78 690 16 33
+
+[246]
+name=Larissa Vilela
+phone=+55 62 9992-6044
+mobile=+55 62 99992-6044
+
+[247]
+name=Lars Berger Designer HKVBS
+email=lars@l-ars.net
+mobile=+41 79 355 53 75
+
+[248]
+name=Leandra Gloor
+mobile=+41774544919
+
+[249]
+name=Leo
+mobile=+41 79 309 50 46
+notes=Photo: https\\://lh3.googleusercontent.com/-QGi2WWrJ7RU/WUDQGpUkehI/AA
+
+[250]
+name=Leyla Kaya
+mobile=+41787471442
+notes=Hinzugefügt von WhatsApp™ am 04.07.2014 14\\:29\\:02
+
+[251]
+name=Linda Zimmermann
+email=l.zimmermannkunz@gmail.com
+address=5b Vorderbergweg
+city=Therwil
+zip=4106
+country=Schweiz
+mobile=+41 76 370 98 24
+
+[252]
+name=Loris
+mobile=079 958 50 42
+
+[253]
+name=Loris Gravante
+mobile=+41795010727
+
+[254]
+name=Loris Rufatti
+mobile=+41765883937
+
+[255]
+name=Luana Russo
+mobile=+41 76 469 18 01
+
+[256]
+name=Luc Van der Stappen
+email=stappie@bluewin.ch,luc.van_der_stappen@roche.com,luc@vd.st
+address=26 Ob. Fuchsrainstr
+city=Möhlin
+zip=4313
+country=CH
+mobile=+41 79 831 72 99
+anniversary=19640622
+
+[257]
+name=Luca Böhringer
+email=luca.boehringer@hotmail.com
+address=4 Dachsweg
+city=Möhlin
+zip=4313
+country=CH
+mobile=+41797499684
+notes=Photo: https\\://lh3.googleusercontent.com/-Ov_IiBxSHFs/WsoCQXZ_P5I/AA
+anniversary=19950217
+
+[258]
+name=Luca Delia (WK)
+mobile=079 555 67 67
+
+[259]
+name=Luca Mangione
+mobile=+41791063469
+
+[260]
+name=Luca Tschudi
+email=lucatschudi@workingbicycle.ch
+mobile=+41 79 648 53 13
+
+[261]
+name=Lucia Petosa
+email=lucy.peto@outlook.com,lucia.petosa@novartis.com
+mobile=07650 73074
+
+[262]
+name=Lucio Marra
+mobile=+41 79 322 03 68
+
+[263]
+name=Ludwig Furger
+email=ludwig.furger@cuentax.ch
+workphone=+41 61 279 71 10
+
+[264]
+name=Lukas Böni
+phone=+61 422 579 615
+mobile=+41 79 511 21 53
+
+[265]
+name=Lynn Hänzi
+mobile=+41796984033
+
+[266]
+name=M.N. Tutti iPhone 11 Pro
+mobile=+41 78 608 14 14
+
+[267]
+name=Macrie, Mike
+email=mwmacrie@simtra.com
+
+[268]
+name=Magdalena Salsa
+mobile=+41 77 410 66 76
+
+[269]
+name=Mahrer Treuhand
+email=christoph.mahrer@mahrer-treuhand.ch
+address=Mahrer Treuhand AG\\\, Hauptstrasse
+city=Möhlin
+country=Schweiz
+phone=+41 61 855 91 55
+url=https://plus.google.com/111502066024649685626/about
+notes=Photo: https\\://lh3.googleusercontent.com/-DTEoatZ6o7Q/WUDQMdatJ2I/AA
+
+[270]
+name=Maide
+mobile=+41 79 919 83 55
+
+[271]
+name=Maja Van der Stappen
+email=majabea62@gmail.com,maja@vd.st
+address=26 Ob. Fuchsrainstr
+city=Möhlin
+zip=4313
+country=CH
+mobile=+41 79 893 23 51
+anniversary=19620515
+
+[272]
+name=Manor Herr Müller😡
+mobile=+41 61 685 48 61
+
+[273]
+name=Manu Tutti KK
+mobile=+41799472308
+
+[274]
+name=Manuel Chautems
+mobile=+41798700717
+
+[275]
+name=Manuel Guarda
+mobile=+41 79 869 90 71
+
+[276]
+name=Manuel Habert
+mobile=+41789444386
+
+[277]
+name=Manuel Puccio
+phone=+41799590857
+
+[278]
+name=Manuel Seiz
+mobile=+41 79 287 99 51
+
+[279]
+name=Marc Ammann aka GP
+mobile=+41 76 456 49 97
+anniversary=19950131
+
+[280]
+name=Marco Bossert
+email=marco.bossert@roche.com
+phone=079 589 25 10
+workphone=079 267 03 70
+notes=Photo: https\\://lh3.googleusercontent.com/-Cggwn6ijDUk/V-1GVCT9yAI/AA
+
+[281]
+name=Marco Camenzind
+mobile=+41788494143
+
+[282]
+name=Marco De Battista
+workphone=061 336 67 89
+
+[283]
+name=Marco Fricker
+mobile=+41 78 631 45 33
+
+[284]
+name=Marco Hohler
+mobile=+41793052957
+
+[285]
+name=Marcos Novoa
+mobile=+41 76 404 55 64
+anniversary=1995-04-28
+
+[286]
+name=Maria Böni
+mobile=079 290 80 76
+
+[287]
+name=Maria Lo Voi
+workphone=+41 61 833 00 18
+mobile=+49 174 6095091
+
+[288]
+name=Marilen Dürr
+email=morien.duerr@blkb.ch
+address=7 Rheinstrasse
+city=Liestal
+zip=4410
+country=Switzerland
+phone=+41 61 925 91 09
+workphone=+41 61 925 94 94
+
+[289]
+name=Marin Samardzija
+mobile=+41 79 955 87 79
+
+[290]
+name=Marischa Cereghetti
+phone=+41786868790
+
+[291]
+name=Markus Künzli
+mobile=+41782114160
+
+[292]
+name=Markus Strässler Dell XPS Käufer
+
+[293]
+name=Martin Guldimann
+mobile=079 915 75 95
+
+[294]
+name=Marvin
+
+[295]
+name=Mathias Blarer
+mobile=+41786161179
+
+[296]
+name=Mathias Dorsaz
+mobile=+41 79 457 69 41
+
+[297]
+name=Mato Pavlovic
+mobile=+41763979513
+
+[298]
+name=Matthias Aeschbacher
+mobile=078 724 23 78
+
+[299]
+name=Matthias Thomann
+mobile=+41764487941
+
+[300]
+name=Maša Salsa
+mobile=+41 79 718 03 36
+
+[301]
+name=Melanie
+mobile=+41 76 417 55 40
+
+[302]
+name=Melanie Jirasko
+mobile=+41 78 919 98 11
+
+[303]
+name=Melissa Rizzello
+address=12 Matte
+city=Magden
+zip=4312
+mobile=+41 76 344 05 97
+anniversary=19970502
+
+[304]
+name=Melvin Gaugler
+mobile=+41792023696
+
+[305]
+name=Miad Sanavi (FU Bat 24)
+mobile=765677833
+
+[306]
+name=Michael Eichenberger
+email=michael.eichenberger@cuentax.ch
+phone=+41 76 421 74 21
+workphone=+41 61 279 71 10
+
+[307]
+name=Michael Schibler
+phone=+41793722199
+
+[308]
+name=Michel Borer
+mobile=+41 79 238 02 28
+
+[309]
+name=Michelle Balz
+mobile=+41799233969
+
+[310]
+name=Michelle Wirz
+mobile=+41774161006
+
+[311]
+name=Michi Lanz
+mobile=+41 79 857 19 69
+
+[312]
+name=Miguel
+mobile=+41 76 499 10 78
+
+[313]
+name=Mike Nöthiger
+mobile=+41792174996
+notes=RS Sommer 15'. Er musste weiter machen. Haben uns einmal getroffen in 
+
+[314]
+name=Miloš Jevtic
+mobile=+41 77 214 62 60
+
+[315]
+name=Mimmo Rizzello
+mobile=076 569 24 96
+
+[316]
+name=Miriam
+mobile=00 49 176 31071777
+
+[317]
+name=Mirjam Schärrer
+phone=+41764099599
+notes=Hinzugefügt von WhatsApp™ am 03.09.2013 17\\:25\\:38
+
+[318]
+name=Misel Milovanovic Sport
+phone=+41 76 572 72 52
+
+[319]
+name=Mobiliar 24h Hotline
+mobile=00 800 1616 1616
+
+[320]
+name=Mud?
+mobile=+41 76 431 62 29
+
+[321]
+name=Nafe Nafe
+phone=+41766473068
+
+[322]
+name=Natalie Kamel-Interessentin
+mobile=+49 173 2162710
+
+[323]
+name=Nathalie
+mobile=+41 76 395 39 17
+
+[324]
+name=Navjot
+mobile=+41 78 911 99 73
+
+[325]
+name=Nelson Salsa
+mobile=+41 76 343 69 93
+
+[326]
+name=Nicholas Arthur
+email=nicholas.j.arthur@bluewin.ch
+mobile=+41 76 393 27 07
+
+[327]
+name=Nico Autino
+address=26 Steinligasse
+city=Möhlin
+zip=4313
+mobile=+41 76 425 01 18
+anniversary=19950814
+
+[328]
+name=Nicola Huber
+phone=+41799362235
+
+[329]
+name=Nicola Raveglia
+mobile=+41 79 590 04 97
+
+[330]
+name=Nicolai Pickel
+mobile=+41 79 947 41 44
+
+[331]
+name=Nicolas Lienhart
+mobile=+41 76 336 05 93
+
+[332]
+name=Nicole Graf-Denzler
+phone=+41787100601
+anniversary=19670331
+
+[333]
+name=Nicole Lengen Firmengründung
+mobile=061 855 46 10
+
+[334]
+name=Nikola Markovic
+email=nikola.markovic1195@gmail.com
+mobile=+41768300584
+
+[335]
+name=Nikola Markovic New
+phone=+41799399298
+
+[336]
+name=Nils
+mobile=+41 79 881 89 30
+
+[337]
+name=Nina Pauli
+mobile=(079) 915-4797
+
+[338]
+name=Nino Alomerovic
+mobile=+41797096446
+
+[339]
+name=Noel Droll
+mobile=+41791242759
+
+[340]
+name=Noelle Tschanz
+mobile=+41798601586
+
+[341]
+name=Noemi Imfeld
+mobile=+41 78 915 50 05
+
+[342]
+name=Noemi Laux
+mobile=0786940846
+
+[343]
+name=Nora Bucher
+mobile=+41765758234
+
+[344]
+name=Nujic Mijo
+email=m.nujic@mnfensterbau.ch
+address=5 Gewerbestrasse
+city=Sissach
+zip=4450
+country=Switzerland
+workphone=+41 61 821 18 31
+mobile=+41 76 578 64 38
+
+[345]
+name=Nuri Sonne
+workphone=+41 61 851 46 70
+mobile=+41 79 263 04 89
+
+[346]
+name=Oliver Eidel
+email=oliver@openregulatory.com
+
+[347]
+name=Olivier Domb
+phone=+41797870405
+
+[348]
+name=OneNote Capture
+email=me@onenote.com
+
+[349]
+name=Opium Guest List
+mobile=+34 667 86 47 33
+
+[350]
+name=Owen, Chris
+email=Christopher.Owen@astrazeneca.com
+
+[351]
+name=Pablo Salsa
+mobile=+41 77 476 64 97
+
+[352]
+name=Pankraz Schär
+email=pankraz.schaer@bluewin.ch
+phone=+41 79 250 63 21
+anniversary=19861009
+
+[353]
+name=Panzer
+mobile=079-662-4343
+
+[354]
+name=Parteeeeey (TLV) Dude from Eindhoven
+mobile=+972 58-498-8782
+
+[355]
+name=Pascal Püntener (WK)
+mobile=+41799224582
+
+[356]
+name=Pascal Wenger Wenpas
+phone=+41618210445
+
+[357]
+name=Patricia Jaggi
+
+[358]
+name=Patrick Boylan (Miami)
+mobile=+1 361-463-0382
+
+[359]
+name=Patrick Eilers
+email=patrick.eilers1995@gmail.com
+mobile=+41 76 579 39 29
+anniversary=19950531
+
+[360]
+name=Patrick Hernandez
+mobile=+41764781997
+
+[361]
+name=Patrick Interclub
+mobile=+41799311017
+
+[362]
+name=Patrick Tschudi
+email=patricktschudi@workingbicycle.ch
+mobile=+41 79 601 30 91
+
+[363]
+name=Phaips Van der Stappen
+email=phaips@vd.st,philippe@vd.st,p@vd.st
+address=Ob. Fuchsrainstr 26
+city=Möhlin
+zip=4313
+country=CH
+mobile=+41 79 382 78 04
+anniversary=19970523
+
+[364]
+name=Philipp
+mobile=+41797658455
+
+[365]
+name=Philipp Käppner
+email=phil1234@gmx.ch
+address=6 Hellweg
+city=Zeiningen
+zip=4314
+mobile=+41 79 679 73 76
+anniversary=19970919
+
+[366]
+name=Philipp Paško
+mobile=+41796580968
+
+[367]
+name=Philipp Schwizer
+mobile=+41793216474
+
+[368]
+name=Phipo Oehlers
+address=14 Spielplatzstrasse
+city=Möhlin
+zip=4313
+mobile=+41 79 546 84 65
+anniversary=19960730
+
+[369]
+name=Pierre Wyssen
+mobile=+41 79 360 99 82
+
+[370]
+name=Pierre-Alain Graf
+email=pag@pag-consulting.net,pierre-alain@graf-denzler.com
+mobile=+41763033231
+
+[371]
+name=Pizza Haus
+mobile=0844 108 108
+
+[372]
+name=Rafael Hernandez
+mobile=+41774245265
+
+[373]
+name=Raffaele Petosa
+mobile=+41765633035
+
+[374]
+name=Rahel Linsig
+mobile=+41 76 394 48 46
+
+[375]
+name=Rahel Svoboda
+mobile=079 266 25 40
+
+[376]
+name=Rahel Widmer
+email=rahel.widmer@crbasel.ch
+workphone=+41613777131
+notes=Photo: https\\://lh3.googleusercontent.com/-7TPgD0p6asQ/WfcZGCo7PII/AA
+
+[377]
+name=Raphael Bürgin
+mobile=+41 79 960 38 87
+
+[378]
+name=Raphael Roche
+workphone=061 687 32 03
+
+[379]
+name=Rashika Ratnayake
+email=rashika.ratnayake@wega-it.com
+address=20 Aeschengraben
+city=Basel
+zip=4051
+country=Switzerland
+phone=+41 61 270 87 77
+
+[380]
+name=Rebecca Rüetschi
+mobile=+41 76 490 18 07
+
+[381]
+name=Rebecca Skelhorn
+email=rebecca.skelhorn@astrazeneca.com
+mobile=+44 7748 181370
+
+[382]
+name=Regina Lang
+mobile=+41 79 560 54 34
+
+[383]
+name=Reinhard Burger
+email=reinhard.burger@roche.com
+workphone=+41 79 788 72 47
+
+[384]
+name=Reka
+mobile=+41 31 329 66 33
+
+[385]
+name=Remo Dörig
+mobile=+41 79 243 51 42
+
+[386]
+name=Remo Iseli (reego)
+mobile=079 347 56 58
+
+[387]
+name=René Blanc (IT Paravent)
+phone=+41763918686
+
+[388]
+name=Reto Tutti iPad
+phone=+41 79 369 48 25
+
+[389]
+name=Robert Cau
+
+[390]
+name=Roberto Migletta
+mobile=+41 78 928 19 14
+
+[391]
+name=Robin Kamber
+mobile=+41791271233
+notes=Hinzugefügt von WhatsApp™ am 04.11.2014 21\\:49\\:45
+
+[392]
+name=Robo
+mobile=079 882 14 19
+
+[393]
+name=Roger Brunner
+address=5 Rosenstrasse
+city=Wallbach
+zip=4323
+country=CH
+mobile=+41 79 943 69 90
+anniversary=19960322
+
+[394]
+name=Roman Brack
+mobile=+41796102717
+
+[395]
+name=Roman Gmuer
+mobile=+41793012705
+
+[396]
+name=Salome
+mobile=076 423 49 07
+
+[397]
+name=Samed 2
+mobile=+49 176 22022890
+
+[398]
+name=Samed Zwetschgi 🍑
+mobile=491727139168
+notes=Photo: https\\://lh6.googleusercontent.com/-Uz80KYVzxQ8/V_pb5xDUSdI/AA
+
+[399]
+name=Samuel Van der Stappen
+email=sam@vd.st,samuel.stappen@rhizomer.com
+workphone=+41 61 510 06 47
+mobile=+41 79 311 57 97
+anniversary=1995-03-23
+
+[400]
+name=Sandra Jaeggi
+address=20 Feierabendstrasse
+city=Basel
+zip=4051
+country=Switzerland
+workphone=+41 61 319 70 70
+
+[401]
+name=Sandro Thommen
+mobile=079-463-5902
+
+[402]
+name=Sara Jevtic
+mobile=+41 77 216 01 89
+
+[403]
+name=Sarah Linsig
+email=linsig.sarah@gmail.com,sarahlinsig98@gmail.com
+address=20 Buchenweg
+city=Rheinfelden
+zip=4310
+country=CH
+mobile=+41 76 488 39 79
+anniversary=19980223
+
+[404]
+name=Sarah Tutti
+phone=0763070845
+
+[405]
+name=Sascha Schmid
+mobile=+41 76 522 77 89
+
+[406]
+name=Sascha Tutti
+mobile=+41794638418
+
+[407]
+name=Schatz ❤️
+mobile=+41768301486
+anniversary=1999-02-27
+
+[408]
+name=Schomi
+mobile=+41 79 928 73 60
+
+[409]
+name=Seathre
+mobile=+41 79 913 06 91
+
+[410]
+name=Sebastian Mühlebach
+mobile=+41 79 554 16 33
+notes=Photo: https\\://lh4.googleusercontent.com/-wu0H4TuSDwA/W13tbu143aI/AA
+
+[411]
+name=Sebastian Naas
+mobile=0796171021
+
+[412]
+name=Seim
+mobile=+41795070979
+
+[413]
+name=Semih Yildiz
+mobile=00 49 162 4902661
+notes=Photo: https\\://lh3.googleusercontent.com/-XsDO5rI8UPU/WESRklgYvxI/AA
+
+[414]
+name=Severin Bitter
+mobile=+41799206123
+
+[415]
+name=Sherilyn Kirchhofer
+mobile=+41792181572
+
+[416]
+name=Silja
+email=silja@moosecrossing.ch
+
+[417]
+name=Silja Meier
+email=siljameier@outlook.com
+mobile=+41791099393
+
+[418]
+name=Simeon Schlegel
+mobile=+41765713653
+
+[419]
+name=Simon
+mobile=+41 79 529 18 70
+
+[420]
+name=Simon Bitter
+mobile=+41791375542
+
+[421]
+name=Simon Lehmann
+mobile=+41 78 910 71 09
+anniversary=--0411
+
+[422]
+name=Simon Näf
+email=naef.simon@bluewin.ch
+mobile=+41 79 841 99 30
+notes=Photo: https\\://lh6.googleusercontent.com/-3MYfHeHCBrI/V-1GPgbySXI/AA
+
+[423]
+name=Simon Suter
+address=11 Wiesenweg
+city=Zeiningen
+zip=4314
+mobile=+41 79 829 34 83
+
+[424]
+name=Simone Böni
+mobile=+41 76 589 15 12
+
+[425]
+name=Sina Horvath
+mobile=+41 78 915 50 20
+
+[426]
+name=Sina WB
+mobile=078 948 09 39
+
+[427]
+name=Siro
+mobile=+41 76 503 95 29
+
+[428]
+name=SoFlow LOU Board
+phone=+41784108905
+
+[429]
+name=Sophie
+mobile=078 802 31 51
+
+[430]
+name=Sophie Graf
+mobile=+41789199607
+
+[431]
+name=Spalato
+phone=+385992106817
+
+[432]
+name=Sprecher Wk
+phone=+41793912993
+
+[433]
+name=Stefaan Thielemans
+email=stefaan_thielemans@waters.com
+address=34 Maple Street
+city=Milford
+state=MA
+zip=01757
+country=USA
+phone=+32 2 726 11 00
+workphone=+32 2 726 10 00
+mobile=+32 475 81 57 96
+notes=Photo: https\\://lh3.googleusercontent.com/-CpoL2Qrdbo4/V-1GXuOvgdI/AA
+
+[434]
+name=Stefan Bosser
+mobile=+41 79 958 76 09
+
+[435]
+name=Stefan Häner
+mobile=078 618 02 29
+
+[436]
+name=Stefano Guede
+mobile=+41 79 137 52 29
+
+[437]
+name=Stefano Vella
+mobile=+41 79 120 93 66
+
+[438]
+name=Stefi Lokai
+mobile=+41 78 820 01 42
+
+[439]
+name=Stephan Ryser
+mobile=0792047843
+
+[440]
+name=Stephanie Heinemann
+
+[441]
+name=Stephanie Tutti
+mobile=075 427 16 14
+
+[442]
+name=Steven Wuttge
+mobile=+49 162 1532495
+
+[443]
+name=Storks Corner
+mobile=061 831 09 09
+
+[444]
+name=Stöööpsel
+mobile=+41 79 525 73 22
+
+[445]
+name=Swiss Bankers Prepaid Services AG
+mobile=+41 31 710 11 11
+
+[446]
+name=Swisscom
+phone=0800 800 800
+
+[447]
+name=Séverin Wendelspiess
+mobile=+41793510295
+notes=Photo: https\\\\://lh4.googleusercontent.com/-k81alFa4Zrs/WreycOEMubI/
+anniversary=1995-09-04
+
+[448]
+name=TCS Birr Hotline
+mobile=+41564644848
+
+[449]
+name=Tabea Eilers
+mobile=+41789120709
+
+[450]
+name=Tabea Fründ
+mobile=+41 76 328 64 22
+
+[451]
+name=Taxi Como
+mobile=+39 375 03203
+
+[452]
+name=Taxi Driver Tel Aviv
+mobile=054-804-0978
+
+[453]
+name=Theo Kolleg Menzi
+mobile=+41 79 124 17 90
+
+[454]
+name=Theresia Bröll
+email=theresia.broell@crbasel.ch
+address=185 Sankt Jakobs-Strasse
+city=Basel
+zip=4052
+country=Switzerland
+workphone=+41 61 377 71 71
+
+[455]
+name=Thierry Wagner
+email=thierry.wagner@hispeed.ch
+address=4 Alpenweg
+city=Möhlin
+zip=4313
+mobile=+41 78 664 49 49
+notes=Photo: https\\://lh4.googleusercontent.com/-Kwb0Rc6E6EQ/W13sfupoP5I/AA
+anniversary=19950907
+
+[456]
+name=Thomas Blank
+workphone=+41 79 266 96 36
+
+[457]
+name=Thomas Haas
+mobile=00 49 176 45712649
+
+[458]
+name=Thorsten Weiss
+email=thorsten.weiss@beyontics.com
+address=79-81 Altonaer Straße
+city=Berlin
+zip=13581
+country=Deutschland
+workphone=+49 177 3188555
+
+[459]
+name=Till Tutti
+mobile=0764415963
+
+[460]
+name=Till Zweifel
+address=10 Müsgasse
+city=Zeiningen
+zip=4314
+mobile=+41 76 384 42 35
+anniversary=19960925
+
+[461]
+name=Tim Lehmann
+email=tlehmann@tesla.com
+address=Halle 7\\nBata Park
+city=Möhlin
+zip=4313
+country=Switzerland
+workphone=+41 61 855 30 20
+mobile=+41 79 916 57 90
+
+[462]
+name=Timo Dörflinger
+email=timo_doerflinger92@web.de
+mobile=+49 162 7782260
+notes=Hinzugefügt von WhatsApp™ am 15.01.2015 17\\:30\\:44
+
+[463]
+name=Timur Gautschi
+email=timur@adibilis.ch
+mobile=+41 78 220 74 28
+anniversary=--1029
+
+[464]
+name=Tobi Rügge
+mobile=+41798896102
+
+[465]
+name=Tobias Haldimann
+phone=+41765450729
+
+[466]
+name=Tobias Wagner
+address=2 Sonnenweg
+city=Zeiningen
+zip=4314
+mobile=+41 79 938 95 89
+anniversary=19960114
+
+[467]
+name=Toffi
+mobile=0798259405
+
+[468]
+name=Tom Tennis Racket Tutti
+phone=+41797143000
+
+[469]
+name=Tomislav Skegro
+email=tomislav.skegro1@gmail.com
+address=7 Riburgpark
+city=Möhlin
+zip=4313
+country=CH
+mobile=+41 79 785 95 78
+notes=Photo: https\\://lh6.googleusercontent.com/-OjlOFRMDG38/Xv89D037nvI/AA
+anniversary=19950403
+
+[470]
+name=Toni Müller
+workphone=+41 79 876 93 68
+
+[471]
+name=Tsuli
+mobile=+41793480666
+
+[472]
+name=UBS Business Support
+mobile=0844 853 002
+
+[473]
+name=Urs Bachmann
+email=urs.bachmann@helvetia.ch
+workphone=+41 58 280 35 10
+mobile=+41 79 408 11 50
+
+[474]
+name=Urs Hungerbühler
+email=hungi.u@icloud.com
+mobile=+41793432646
+
+[475]
+name=Ursula iPhone Tutti
+mobile=+41 76 472 24 74
+
+[476]
+name=Vale
+mobile=+41795892700
+
+[477]
+name=Valentina
+mobile=079 674 87 47
+
+[478]
+name=Vanessa Casonato
+mobile=+41 79 800 63 29
+
+[479]
+name=Vera Salsa
+mobile=+41 79 837 16 51
+
+[480]
+name=Veronica
+mobile=(631) 482-2509
+
+[481]
+name=Vis Rent
+phone=+385 98 328 712
+
+[482]
+name=W Barcelona VIP
+mobile=+34 600 81 08 63
+
+[483]
+name=Wanderlog Flights
+email=trip+1021347@wanderlog.com
+
+[484]
+name=Wolfgang Duttlinger
+email=wolfgang.duttlinger@roche.com
+mobile=+41 79 259 84 92
+
+[485]
+name=Yami Brauer
+mobile=+41 79 631 96 49
+anniversary=19950201
+
+[486]
+name=Yannik Van Der Heide
+mobile=+41 79 756 47 52
+
+[487]
+name=Ylber Sokoli
+phone=+41 76 464 80 96
+notes=Photo: https\\://lh4.googleusercontent.com/-qJJisnvXQFw/V-1GXf0hj8I/AA
+
+[488]
+name=Yves Lüthi
+mobile=+41 79 841 71 11
+
+[489]
+name=jay nikki beach
+mobile=+44 7949 888888
+
+[490]
+name=natasza rohde
+mobile=+41 78 747 94 10
+
+[491]
+name=sarah
+mobile=+393801079124
+
+[492]
+name=who the fuck??
+phone=+41 76 392 40 56
+
+[493]
+name=Özgül
+mobile=+41 78 949 30 17
+
+[494]
+name=Jonas Simon
+email=Jonas.Simon@zifornd.com
+
+[495]
+name=Blank, Thomas
+email=thomas.blank@roche.com
+
+[496]
+name=Kwiecinski, Jakub
+email=jakub.kwiecinski@contractors.roche.com
+
