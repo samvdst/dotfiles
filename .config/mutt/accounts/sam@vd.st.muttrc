@@ -1,0 +1,19 @@
+# vim: filetype=neomuttrc
+# muttrc file for account sam@vd.st
+set real_name = "Samuel Van der Stappen"
+set from = "sam@vd.st"
+set sendmail = "msmtp -a sam@vd.st"
+alias me Samuel Van der Stappen <sam@vd.st>
+set folder = "/Users/sam/.local/share/mail/sam@vd.st"
+set header_cache = "/Users/sam/.cache/mutt-wizard/sam_vd.st/headers"
+set message_cachedir = "/Users/sam/.cache/mutt-wizard/sam_vd.st/bodies"
+set mbox_type = Maildir
+set hostname = "vd.st"
+source /usr/local/share/mutt-wizard/switch.muttrc
+set spool_file = "+INBOX"
+set postponed = "+Drafts"
+set trash = "+Trash"
+set record = "+Sent"
+
+macro index o "<shell-escape>mailsync sam@vd.st<enter>" "sync sam@vd.st"
+mailboxes "=INBOX" "=Archives" "=Sent" "=Drafts" "=Trash" "=Archives/2014" "=Archives/2015" "=Archives/2016" "=Archives/2017" "=Archives/2018" "=Archives/2019" "=Archives/2020" "=Archives/2021" "=Archives/2022" "=Archives/2023" "=Archives/2024" "=Belege" "=Console" "=Init7" "=Junk" "=OLD_GMAIL/Sent" "=Spam" "=Wincasa" "=[Gmail]/All Mail" "=[Gmail]/Important" "=[Gmail]/Sent Mail" "=[Gmail]/Starred"
